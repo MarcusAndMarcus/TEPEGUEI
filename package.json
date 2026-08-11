@@ -1,0 +1,14 @@
+{
+  "name": "uroboros-urb2",
+  "version": "2.9.0",
+  "description": "UROBOROS URB2 - arquivo unico, zero dependencias.",
+  "main": "urb2.js",
+  "scripts": {
+    "start": "node urb2.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
